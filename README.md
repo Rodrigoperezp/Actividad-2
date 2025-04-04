@@ -1,6 +1,7 @@
 # Practica 2: Ejercicio 10, Simulacion de partidas
 
 Este proyecto analiza estadísticas de jugadores a lo largo de varias rondas de partidas, calcula puntajes en base a kills, asistencias y muertes, y determina el MVP de cada ronda. Finalmente, genera un ranking general de desempeño.
+Para ejecutar este ejercicio desde jupyter web funciona correctamente, pero desde el vscode me sale un error con el import __init__. Para comprobar por favor ejecutarlo desde jupyter web
 
 
 #                              _____________________________
