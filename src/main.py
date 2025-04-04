@@ -1,4 +1,4 @@
-from src.__init__ import calcular_puntaje
+from __init__ import calcular_puntaje
 
 rounds = [
 {
