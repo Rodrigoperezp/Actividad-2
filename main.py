@@ -87,4 +87,4 @@ print("-" * 50)
 ranking_final = sorted(stats_jugadores.items(), key=lambda x: x[1]['puntos'], reverse=True)
 for jugador, stats in ranking_final:
     print(f"{jugador:<10} {stats['kills']:<5} {stats['assists']:<10} {stats['deaths']:<7} {stats['mvp']:<5} {stats['puntos']:<5}")
-print("=" * 50)
+print("=" * 50) 
